@@ -1,0 +1,58 @@
+<DOCTYPE! html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<h1>Welcome to the Los Pollos Hermanos website!</h1>
+<img src="logo_.png" width=460px>
+
+<p id="respect">Los Pollos Hermanos has been serving delicious food all around America since 1989. We believe a healthy workplace is where it starts, that's why we treat our employees with kindness and respect.  
+
+<img src="Los-Pollos-Hermanos_photo.png" width=1430px>
+
+<p id="intro">Here at Los Pollos Hermanos, we value family over everything else. Our food is high quality and our employees are cheery!
+			  /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/			  
+			  
+<p>.
+<p>.
+<p>.
+					
+<p id="foods">"Los Pollos Meal"___"Curly Fries"___"Los Pollos Sandwich"___"Pollos sopa"	
+	
+<img src="fried_chicken.png"width=310px>
+<img src="fries.png"width=310px>
+<img src="sandwich.png"width=310px>
+<img src="sopa.png"width=310px>
+
+<p>.
+<p>.
+<p id="intro">We also provide a large catalogue of drinks and refreshments.
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+			  
+<p>.
+<p>.
+<p>.
+
+<p id="drinks">"Coca Cola"_______"Aguas Frescas"_____"Lemonade"______"Milkshake"	
+
+<img src="coke.png"width=310px>
+<img src="aguas_frescas.png"width=310px>
+<img src="lemonade.png"width=310px>
+<img src="milkshake.png"width=310px>
+
+<img src="gus_owner.png"width=1430px>
+<p id="options">At Los Pollos Hermanos we value family over all else, our goal is to make you feel at home.</p>
+<p id="SUS">- Sus Fring
+
+<p id="line">_____________________________________________________________________________________________________________________________________________________________________
+<p id="outro">Thank you for visiting the Los Pollos Hermanos website, come again!</p>
+
+</body>
+
+</html>
